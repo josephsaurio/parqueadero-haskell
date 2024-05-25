@@ -28,6 +28,6 @@ Este proyecto es un sistema de gestión de parqueaderos implementado en Haskell.
    ```bash
    runhaskell Main.hs
 4. Seguir las instrucciones en el menú para registrar la entrada y salida de vehículos, buscar vehículos por su placa y listar todos los vehículos.
-   ```bash
+
 ## Video de presentación
 https://youtu.be/F6MfA99XPcc 
